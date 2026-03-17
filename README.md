@@ -2,7 +2,7 @@
 
 Companion repository for the manuscript:
 
-**Cross-Mission Evidence on Reduced Closures and State-Space Relations in Mars Near-Surface Turbulence**
+**Evidence for non-Universal Reduced Closures and Sol-Dependent State-Space Relations in Mars Near-Surface Turbulence**
 
 This repository contains the code and bundled assets used to reproduce a cross-mission analysis of near-surface Martian turbulence using **InSight** and **Perseverance/MEDA** data. The workflows cover data acquisition from NASA PDS, harmonization into common state vectors, regression and spectral diagnostics, dimensionless-regime analysis, and generation of report figures.
 
@@ -432,7 +432,7 @@ Check:
 If you use this repository in research, please cite:
 
 1. the companion manuscript:
-   - K.M. Saqr (2026) **Cross-Mission Evidence on Reduced Closures and State-Space Relations in Mars Near-Surface Turbulence**
+   - K.M. Saqr (2026) **Evidence for non-Universal Reduced Closures and Sol-Dependent State-Space Relations in Mars Near-Surface Turbulence**
 2. the relevant NASA PDS bundles used as source data
 3. this GitHub repository
 
