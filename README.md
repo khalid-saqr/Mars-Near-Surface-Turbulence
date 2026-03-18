@@ -2,7 +2,7 @@
 
 Companion repository for the manuscript:
 
-**Limits of Reduced Closures in Mars Near-Surface Turbulence: Evidence from the InSight and Mars 2020 Missions**
+**Limits of Reduced Turbulence Closures on Mars: Evidence from the InSight and Mars 2020 Missions**
 
 This repository contains the code and bundled assets used to reproduce a cross-mission analysis of near-surface Martian turbulence using **InSight** and **Perseverance/MEDA** data. The workflows cover data acquisition from NASA PDS, harmonization into common state vectors, regression and spectral diagnostics, dimensionless-regime analysis, and generation of report figures.
 
@@ -432,7 +432,7 @@ Check:
 If you use this repository in research, please cite:
 
 1. the companion manuscript:
-   - K.M. Saqr (2026) **Limits of Reduced Closures in Mars Near-Surface Turbulence: Evidence from the InSight and Mars 2020 Missions**
+   - K.M. Saqr (2026) **Limits of Reduced Turbulence Closures on Mars: Evidence from the InSight and Mars 2020 Missions**
 2. the relevant NASA PDS bundles used as source data
 3. this GitHub repository
 
